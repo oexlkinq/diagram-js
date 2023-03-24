@@ -37,14 +37,6 @@ elementFactory.create('label', {
   id: 'label'
 });
 
-elementFactory.create('connection');
-
-elementFactory.create('label');
-
-elementFactory.create('root');
-
-elementFactory.create('shape');
-
 elementFactory.createConnection();
 
 elementFactory.createLabel();
